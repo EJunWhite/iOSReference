@@ -2,13 +2,17 @@
 iOS 개발하면서 필요한 부분에 대한 참고 자료 및 참고 할만한 것들을 기술 하였다.
 
 참고 사항
-- [Swift Documantation](#swift-documentation)
+- [Swift Documentation](#swift-documentation)
+- [Objective-c Documentation](#objecive-c-documentation)
 
-## Swift Documantation
+## Swift Documentation
 Swift로 개발하면서 Markup된 부분에 대하여 docs로 export할수 있도록 도와준다.
 - [jazzy](http://nshipster.com/swift-documentation/)
 
-## Objective-c Documantation
+Report&Analytics를 사용하고자 한다면 [Fabric](https://docs.fabric.io/apple/fabric/overview.html)
+- [Fabric](https://docs.fabric.io/apple/fabric/overview.html)
+
+## Objective-c Documentation
 Picture Library는 [TOCropContorller](https://github.com/TimOliver/TOCropViewController)를 사용하는걸 추천한다.
 - [TOCropContorller](http://nshipster.com/swift-documentation/)
 
