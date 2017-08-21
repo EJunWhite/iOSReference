@@ -9,6 +9,8 @@ iOS 개발하면서 필요한 부분에 대한 참고 자료 및 참고 할만�
 Swift로 개발하면서 Markup된 부분에 대하여 docs로 export할수 있도록 도와준다.
 - [jazzy](http://nshipster.com/swift-documentation/)
 
+  > jazzy --min-acl internal
+
 Report&Analytics를 사용하고자 한다면 [Fabric](https://docs.fabric.io/apple/fabric/overview.html)
 - [Fabric](https://docs.fabric.io/apple/fabric/overview.html)
 
