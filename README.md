@@ -10,7 +10,7 @@ Swift로 개발하면서 Markup된 부분에 대하여 docs로 export할수 있�
 - [jazzy](http://nshipster.com/swift-documentation/)
 
   ```
-  jazzy --min-acl internal --skip-undocumented -o jazzy_doc --author DaeJun Lee --author_url https://epanouir.github.io/healpack-ios/
+  jazzy --min-acl internal --skip-undocumented -o docs --author DaeJun Lee --author_url https://epanouir.github.io/healpack-ios/
   jazzy --min-acl internal
   ```
 
