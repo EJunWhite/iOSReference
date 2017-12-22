@@ -11,11 +11,18 @@ Swift로 개발하면서 Markup된 부분에 대하여 docs로 export할수 있�
 
   ```
   jazzy --min-acl internal --skip-undocumented -o docs --author DaeJun Lee --author_url https://epanouir.github.io/healpack-ios/
-  jazzy --min-acl internal
-  ```
+  : only index(README.md)
 
+  jazzy --min-acl internal
+  : 출력 : Classes, Structs, index(README.md)
+  ```
+  
 Report&Analytics를 사용하고자 한다면 [Fabric](https://docs.fabric.io/apple/fabric/overview.html)
 - [Fabric](https://docs.fabric.io/apple/fabric/overview.html)
+
+- [Alamofire](https://github.com/Alamofire/Alamofire)
+
+- [AlamofireImage](https://github.com/Alamofire/AlamofireImage)
 
 ## Objective-c Documentation
 Picture Library는 [TOCropContorller](https://github.com/TimOliver/TOCropViewController)를 사용하는걸 추천한다.
