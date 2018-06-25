@@ -35,7 +35,7 @@
               ]
             },
             "url": "http://dev.healpack.co.kr/app/member/info2",
-            "description": "# \ub85c\uadf8\uc778\uc2dc \uc0ac\uc6a9\uc790 \uc815\ubcf4\ub97c \uac00\uc838\uc628\ub2e4\n \n- 1-1. \uc571 \uc790\ub3d9 \ub85c\uadf8\uc778\uc2dc \uc0ac\uc6a9\uc790\uc815\ubcf4 \uc694\uccad\n1-2. \ucd9c\uc11d\uccb4\ud06c(\ud3ec\uc778\ud2b8 \uc9c0\uae09\uc744 \uc704\ud55c)\n\n-API \ub0b4\ubd80 \ud504\ub85c\uc138\uc2a4-\n1-1 -> 1-2\n\n-Response value-\n- 1.code \n > \ub9ac\ud134\ucf54\ub4dc\n- 2.msg\t\n- 3.uuid\t\n > \ud68c\uc6d0\uace0\uc720\ubc88\ud638\n- 4.userid\t\n > \ud68c\uc6d0\uc544\uc774\ub514\n- 5.nickname\n > \ub2c9\ub124\uc784\n- 6.email\t\n > Email\n- 7.image\t\n > \uc774\ubbf8\uc9c0\n- 8.vipclub\n > \ud504\ub9ac\ud074\ub7fd\uc5ec\ubd80\n\n### Usage Example\ninfo2?msg=temp\n"
+            "description": "# \ub85c\uadf8\uc778\uc2dc \uc0ac\uc6a9\uc790 \uc815\ubcf4\ub97c \uac00\uc838\uc628\ub2e4\n \n- 1-1. \uc571 \uc790\ub3d9 \ub85c\uadf8\uc778\uc2dc \uc0ac\uc6a9\uc790\uc815\ubcf4 \uc694\uccad\n1-2. \ucd9c\uc11d\uccb4\ud06c(\ud3ec\uc778\ud2b8 \uc9c0\uae09\uc744 \uc704\ud55c)\n\n-API \ub0b4\ubd80 \ud504\ub85c\uc138\uc2a4-\n1-1 -> 1-2\n\n-Response value-\n- 1.code \n > \ub9ac\ud134\ucf54\ub4dc\n- 2.msg  \n- 3.uuid  \n > \ud68c\uc6d0\uace0\uc720\ubc88\ud638\n- 4.userid  \n > \ud68c\uc6d0\uc544\uc774\ub514\n- 5.nickname\n > \ub2c9\ub124\uc784\n- 6.email  \n > Email\n- 7.image  \n > \uc774\ubbf8\uc9c0\n- 8.vipclub\n > \ud504\ub9ac\ud074\ub7fd\uc5ec\ubd80\n\n### Usage Example\ninfo2?msg=temp\n"
           },
           "response": [
             {
