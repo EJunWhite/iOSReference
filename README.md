@@ -30,3 +30,11 @@ Picture Library는 [TOCropContorller](https://github.com/TimOliver/TOCropViewCon
 
   > Swift에서 Objective-c 프로젝트를 연결하고자 한다면 다음과 같은 내용을 참고하여 적용해야 한다.
   [LINK](https://developer.apple.com/library/content/documentation/Swift/Conceptual/BuildingCocoaApps/MixandMatch.html)
+
+
+## Xcode
+
+Show Build Time
+```
+defaults write com.apple.dt.Xcode ShowBuildOperationDuration -bool YES
+```
